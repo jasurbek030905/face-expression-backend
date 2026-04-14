@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+fer==22.4.0
+opencv-python-headless
+numpy
+pillow
+python-multipart
+tensorflow-cpu==2.15.0
+pandas
